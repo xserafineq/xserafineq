@@ -1,7 +1,6 @@
 # 🙋 Cześć !
 
-🎮 Moją główną pasją jest **programowanie** oraz tworzenie nowych, ciekawych rozwiązań.  
-Poza tym rekreacyjnie lubię spędzać czas na **siłowni**.  
+🎮 Moją główną pasją jest **programowanie** oraz tworzenie nowych, ciekawych rozwiązań. Poza tym rekreacyjnie lubię spędzać czas na **siłowni**.  
 
 ### 🎖️ Doświadczenie Zawodowe
 - 🏫 Uniwersytet Rzeszowski (obecnie)
