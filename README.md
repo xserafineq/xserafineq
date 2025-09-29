@@ -41,6 +41,16 @@ Moje główne technologie to:
 - [ 🌐 Web ](https://github.com/xserafineq/Portfolio) - „Portfolio 🧑” strona stworzona w React.js pełniąca fukncji mojej internetowej wizytówki.
 - [ 🖥️ Desktop ](https://github.com/xserafineq/MusicPlayer) – „MusicPlayer 🎵” prosty odtwarzacz muzyki.
 
+### 📜 Moje Certyfikaty
+
+- **Certyfikat Kwalifikacji Zawodowej INF.03** – 92% | **INF.04** – 100%  
+- **Certyfikat ukończenia kursu z kompetencji miękkich**  
+- **Certyfikat ukończenia kursu z grafiki komputerowej oraz tworzenia stron w WordPress**  
+- **Europass-Mobilność** – potwierdzenie doświadczenia zawodowego podczas stażu zagranicznego w Szwecji (2022)
+
+
+
+
 
 
 
