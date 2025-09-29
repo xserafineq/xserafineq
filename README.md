@@ -9,7 +9,7 @@ Poza tym rekreacyjnie lubię spędzać czas na **siłowni**.
 - 🏢 Praktyki zawodowe w firmie „Web-Box” (2023) – tworzenie i rozwój stron internetowych.
 - 🏢 Staż zagraniczny Erasmus+ w firmie „BiligTeknik.se” (2022) – zarządzanie i administracja bazami danych.
 
-🧑‍💻 Tworzę głównie **aplikacje webowe oraz desktopowe**.  
+###🧑‍💻 Tworzę głównie **aplikacje webowe oraz desktopowe**.  
 Moje główne technologie to:  
 
 ### 🌐 Frontend  
