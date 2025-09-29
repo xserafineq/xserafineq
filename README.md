@@ -29,5 +29,12 @@ Moje główne technologie to:
 
 ---
 
-🔗 Na moim profilu znajdziesz projekty, w których łączę powyższe technologie, aby tworzyć praktyczne rozwiązania.  
+🔗 Na moim profilu znajdziesz projekty, w których łączę powyższe technologie, aby tworzyć praktyczne rozwiązania.
+## 🚀 Moje Projekty
+
+- [🖥️ Desktop](https://github.com/xserafineq/SecuritySafe) – „Security Safe 🔒” jest to prosta aplikacja służąca do przechowywania haseł oraz notatek.
+
+
+
+
 
