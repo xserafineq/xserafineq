@@ -3,7 +3,7 @@
 🎮 Moją główną pasją jest **programowanie** oraz tworzenie nowych, ciekawych rozwiązań.  
 Poza tym rekreacyjnie lubię spędzać czas na **siłowni**.  
 
-## 🎖️ Doświadczenie Zawodowe
+### 🎖️ Doświadczenie Zawodowe
 - 🏫 Uniwersytet Rzeszowski (obecnie)
 - 🏫 Technikum Informatyczne (2019-2024)
 - 🏢 Praktyki zawodowe w firmie „Web-Box” (2023) – tworzenie i rozwój stron internetowych.
