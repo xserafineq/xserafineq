@@ -19,22 +19,22 @@ Moje główne technologie to:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)  
 
-### 📊 Backend & Bazy Danych  
+#### 📊 Backend & Bazy Danych  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)  
 
-### 🖥️ Java  
+#### 🖥️ Java  
 ![JavaFX](https://img.shields.io/badge/JavaFX-FF6600?style=for-the-badge&logo=java&logoColor=white)  
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)  
 
-### ⚙️ C#  
+#### ⚙️ C#  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
 ![WPF](https://img.shields.io/badge/WPF-68217A?style=for-the-badge&logo=dotnet&logoColor=white)  
 
 ---
-## 🚀 Moje Projekty
+### 🚀 Moje Projekty
 
 - [ 🖥️ Desktop ](https://github.com/xserafineq/SecuritySafe) – „Security Safe 🔒” aplikacja służąca do przechowywania haseł oraz notatek.
 - [ 📱 Notebook ](https://github.com/xserafineq/Notebook) – „Notebook ✍️” aplikacja do zapisywania notatek na urządzeniach mobilnych z system Android 🤖.
