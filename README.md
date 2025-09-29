@@ -1,4 +1,4 @@
-# 🙋 Cześć, mam na imię Mateusz!  
+# 🙋 Cześć !
 
 🎮 Moją główną pasją jest **programowanie** oraz tworzenie nowych, ciekawych rozwiązań.  
 Poza tym rekreacyjnie lubię spędzać czas na **siłowni**.  
