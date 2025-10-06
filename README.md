@@ -29,7 +29,6 @@ Moje główne technologie to:
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
 ### ⚙️ C#
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![WPF](https://img.shields.io/badge/WPF-68217A?style=for-the-badge&logo=dotnet&logoColor=white)
 
 
