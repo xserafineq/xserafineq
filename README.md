@@ -34,11 +34,11 @@ Moje główne technologie to:
 
 ---
 ### 🚀 Moje Projekty
-- [ 🌐 Web ](https://github.com/xserafineq/SecuritySafe) – „🥦 Dietetyk+” aplikacja służąca do zarządzania salonem dietetycznym.
-- [ 🖥️ Desktop ](https://github.com/xserafineq/SecuritySafe) – „🔒 Security Safe” aplikacja służąca do przechowywania haseł oraz notatek.
-- [ 📱 Notebook ](https://github.com/xserafineq/Notebook) – „📓 Notebook” aplikacja do zapisywania notatek na urządzeniach mobilnych z system Android 🤖.
-- [ 🌐 Web ](https://github.com/xserafineq/Portfolio) - „🧑 Portfolio” strona stworzona w React.js pełniąca fukncji mojej internetowej wizytówki.
-- [ 🖥️ Desktop ](https://github.com/xserafineq/MusicPlayer) – „🎵 MusicPlayer” prosty odtwarzacz muzyki.
+- [„🥦 Dietetyk+](https://github.com/xserafineq/SecuritySafe) – aplikacja służąca do zarządzania salonem dietetycznym.
+- [🔒 Security Safe](https://github.com/xserafineq/SecuritySafe) – aplikacja służąca do przechowywania haseł oraz notatek.
+- [📓 Notebook](https://github.com/xserafineq/Notebook) – aplikacja do zapisywania notatek na urządzeniach mobilnych z system Android 🤖.
+- [🧑 Portfolio](https://github.com/xserafineq/Portfolio) - strona stworzona w React.js pełniąca fukncji mojej internetowej wizytówki.
+- [🎵 MusicPlayer](https://github.com/xserafineq/MusicPlayer) – prosty odtwarzacz muzyki.
 
 ### 📜 Moje Certyfikaty
 
