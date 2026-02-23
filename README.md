@@ -6,7 +6,7 @@
 - 🏢 Praktyki zawodowe w firmie „Web-Box” (2023) – tworzenie i rozwój stron internetowych.
 - 🏢 Staż zagraniczny Erasmus+ w firmie „BiligTeknik.se” (2022) – zarządzanie i administracja bazami danych oraz stronami internetowymi.
 
-### 🧑‍💻 Technologie**.  
+### 🧑‍💻 Technologie  
 
 ## 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
