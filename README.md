@@ -26,6 +26,7 @@
 - [**📓 Notebook**](https://github.com/xserafineq/Notebook) – aplikacja do zapisywania notatek na urządzeniach mobilnych z system Android 🤖.
 - [**🧑 Portfolio**](https://github.com/xserafineq/Portfolio) - strona stworzona w React.js pełniąca fukncji mojej internetowej wizytówki.
 - [**🎵 MusicPlayer**](https://github.com/xserafineq/MusicPlayer) – prosty odtwarzacz muzyki.
+- [**🎵 Pogodynka**](https://github.com/xserafineq/Pogodynka) – prosty projekt stworzony w celu nauki web-scrapu przy wykorzystaniu Selenium.
 
 ## 📜 Certyfikaty, Ukończone Kursy
 
