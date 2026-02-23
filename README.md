@@ -4,7 +4,7 @@
 
 ### 🎖️Doświadczenie zawodowe
 - 🏢 Praktyki zawodowe w firmie „Web-Box” (2023) – tworzenie i rozwój stron internetowych.
-- 🏢 Staż zagraniczny Erasmus+ w firmie „BiligTeknik.se” (2022) – zarządzanie i administracja bazami danych.
+- 🏢 Staż zagraniczny Erasmus+ w firmie „BiligTeknik.se” (2022) – zarządzanie i administracja bazami danych oraz stronami internetowymi.
 
 ### 🧑‍💻 Technologie**.  
 
