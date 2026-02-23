@@ -29,6 +29,7 @@
 
 ## ⚙️ C#
 ![WPF](https://img.shields.io/badge/WPF-68217A?style=for-the-badge&logo=dotnet&logoColor=white)
+![MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 
 ---
