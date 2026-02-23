@@ -1,5 +1,3 @@
-🎮 Moją główną pasją jest **programowanie** oraz tworzenie nowych, ciekawych rozwiązań. Poza tym rekreacyjnie lubię spędzać czas na **siłowni**.  
-
 ### 🏫 Wykształcenie
 - 🏫 Uniwersytet Rzeszowski (obecnie)
 - 🏫 Technikum Informatyczne (2019-2024)
