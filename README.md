@@ -21,12 +21,12 @@
 
 ---
 ## 🚀 Projekty
-- [**🥦 Dietetyk+**](https://github.com/xserafineq/dietetykplus) – aplikacja służąca do zarządzania salonem dietetycznym.
-- [**🔒 Security Safe**](https://github.com/xserafineq/SecuritySafe) – aplikacja służąca do przechowywania haseł oraz notatek.
-- [**📓 Notebook**](https://github.com/xserafineq/Notebook) – aplikacja do zapisywania notatek na urządzeniach mobilnych z system Android 🤖.
+- [**🥦 Dietetyk+**](https://github.com/xserafineq/dietetykplus) – System do zarządzania salonem dietetycznym oraz bazą pacjentów.
+- [**🔒 Security Safe**](https://github.com/xserafineq/SecuritySafe) – Desktopowy menedżer haseł i szyfrowanych notatek stawiający na bezpieczeństwo danych.
+- [**📓 Notebook**](https://github.com/xserafineq/Notebook) – Mobilna aplikacja do organizacji notatek z intuicyjnym interfejsem graficznym.
 - [**🧑 Portfolio**](https://github.com/xserafineq/Portfolio) - strona stworzona w React.js pełniąca fukncji mojej internetowej wizytówki.
-- [**🎵 MusicPlayer**](https://github.com/xserafineq/MusicPlayer) – prosty odtwarzacz muzyki.
-- [**☀️ Pogodynka**](https://github.com/xserafineq/Pogodynka) – prosty projekt stworzony w celu nauki web-scrapu przy wykorzystaniu Selenium.
+- [**🎵 MusicPlayer**](https://github.com/xserafineq/MusicPlayer) – Funkcjonalny odtwarzacz plików audio z interfejsem graficznym.
+- [**☀️ Pogodynka**](https://github.com/xserafineq/Pogodynka) – Automatyzacja pozyskiwania danych pogodowych (Web Scraping) z wykorzystaniem C# oraz Selenium.
 
 ## 📜 Certyfikaty, Ukończone Kursy
 
