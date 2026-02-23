@@ -1,5 +1,5 @@
 ### 🏫 Wykształcenie
-- 🏫 Uniwersytet Rzeszowski (obecnie)
+- 🏫 Uniwersytet Rzeszowski (2024 - obecnie)
 - 🏫 Technikum Informatyczne (2019-2024)
 
 ### 🎖️Doświadczenie zawodowe
