@@ -21,19 +21,20 @@
 ![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![WPF](https://img.shields.io/badge/WPF-68217A?style=for-the-badge&logo=dotnet&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-FF6600?style=for-the-badge&logo=java&logoColor=white)
 
 ---
-## 🚀 Moje Projekty
+## 🚀 Projekty
 - [**🥦 Dietetyk+**](https://github.com/xserafineq/dietetykplus) – aplikacja służąca do zarządzania salonem dietetycznym.
 - [**🔒 Security Safe**](https://github.com/xserafineq/SecuritySafe) – aplikacja służąca do przechowywania haseł oraz notatek.
 - [**📓 Notebook**](https://github.com/xserafineq/Notebook) – aplikacja do zapisywania notatek na urządzeniach mobilnych z system Android 🤖.
 - [**🧑 Portfolio**](https://github.com/xserafineq/Portfolio) - strona stworzona w React.js pełniąca fukncji mojej internetowej wizytówki.
 - [**🎵 MusicPlayer**](https://github.com/xserafineq/MusicPlayer) – prosty odtwarzacz muzyki.
 
-## 📜 Certyfikaty / Ukończone Kursy
+## 📜 Certyfikaty, Ukończone Kursy
 
 - **Certyfikat Kwalifikacji Zawodowej INF.03** – 92% | **INF.04** – 100%  
 - **Certyfikat ukończenia kursu z kompetencji miękkich**  
 - **Certyfikat ukończenia kursu z grafiki komputerowej oraz tworzenia stron w WordPress**  
 - **Europass-Mobilność** – potwierdzenie doświadczenia zawodowego podczas stażu zagranicznego w Szwecji (2022)
+---
 
 
 
