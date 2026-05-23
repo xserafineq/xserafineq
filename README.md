@@ -32,7 +32,8 @@
 ## 📜 Certyfikaty, Ukończone Kursy
 
 - **Certyfikat Kwalifikacji Zawodowej INF.03** – 92% | **INF.04** – 100%  
-- **Certyfikat ukończenia kursu z kompetencji miękkich**  
+- **Certyfikat ukończenia kursu z kompetencji miękkich**
+- **Dyplom Zawodowy Technik Programista**
 - **Certyfikat ukończenia kursu z grafiki komputerowej oraz tworzenia stron w WordPress**  
 - **Europass-Mobilność** – potwierdzenie doświadczenia zawodowego podczas stażu zagranicznego w Szwecji (2022)
 ---
