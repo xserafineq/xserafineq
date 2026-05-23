@@ -26,7 +26,6 @@
 - [**🔒 Security Safe**](https://github.com/xserafineq/SecuritySafe) – Desktopowy menedżer haseł i szyfrowanych notatek stawiający na bezpieczeństwo danych.
 - [**📊 DataMiner**](https://github.com/xserafineq/DataMiner) – Program do analizy kursu walut oraz kruszców w danym czasie.
 - [**📓 Notebook**](https://github.com/xserafineq/Notebook) – Mobilna aplikacja do organizacji notatek z intuicyjnym interfejsem graficznym.
-- [**🧑 Portfolio**](https://github.com/xserafineq/Portfolio) - strona stworzona w React.js pełniąca fukncji mojej internetowej wizytówki.
 - [**🎵 MusicPlayer**](https://github.com/xserafineq/MusicPlayer) – Funkcjonalny odtwarzacz plików audio z interfejsem graficznym.
 - [**☀️ Pogodynka**](https://github.com/xserafineq/Pogodynka) – Automatyzacja pozyskiwania danych pogodowych (Web Scraping) z wykorzystaniem C# oraz Selenium.
 
