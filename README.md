@@ -39,7 +39,7 @@
 
 ## 💻 Koła Naukowe 
 **Koło Naukowe Informatyków**
-- *Projekt zespołowowy - platforma do nauki języka japońskiego*
+- *Projekt zespołowy - platforma do nauki języka japońskiego*
 ---
 
 
