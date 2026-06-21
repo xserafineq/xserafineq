@@ -38,8 +38,8 @@
 - **Europass-Mobilność** – potwierdzenie doświadczenia zawodowego zdobytego podczas stażu zagranicznego w Szwecji (2022)
 
 ## 💻 Koła Naukowe 
-- **Koło Naukowe Informatyków**
-*Projekt zespołowowy - platforma do nauki języka japońskiego*
+**Koło Naukowe Informatyków**
+- *Projekt zespołowowy - platforma do nauki języka japońskiego*
 ---
 
 
