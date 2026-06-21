@@ -35,7 +35,11 @@
 - **Certyfikat ukończenia kursu z kompetencji miękkich**
 - **Dyplom Zawodowy Technik Programista**
 - **Certyfikat ukończenia kursu z grafiki komputerowej oraz tworzenia stron w WordPress**  
-- **Europass-Mobilność** – potwierdzenie doświadczenia zawodowego podczas stażu zagranicznego w Szwecji (2022)
+- **Europass-Mobilność** – potwierdzenie doświadczenia zawodowego zdobytego podczas stażu zagranicznego w Szwecji (2022)
+
+## 💻 Koła Naukowe 
+- **Koło Naukowe Informatyków**
+*Projekt zespołowowy - platforma do nauki języka japońskiego*
 ---
 
 
